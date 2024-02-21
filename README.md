@@ -1,2 +1,2 @@
-# openxiami
-開放格式蝦米輸入法案
+# newxiami
+新蝦米輸入法碼表
